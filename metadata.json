@@ -1,0 +1,6 @@
+{
+  "name": "Glowora & Saqib Visuals",
+  "description": "Premium beauty and skincare e-commerce platform and portfolio built with Next.js, featuring interactive product showcases, dynamic contact forms, and a real-time admin content management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
